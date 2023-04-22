@@ -1,0 +1,26 @@
+h1{
+    margin: 0px auto;
+    color: red;
+    text-align:center;
+}
+.flag{
+    margin: 0px auto;
+    width: 500px;
+    height: 280px;
+    background-color: green;
+   
+}
+.flag1 {
+    margin:0px auto;
+   position: relative;
+    bottom:-40px;
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
